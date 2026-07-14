@@ -2,7 +2,7 @@
 
 This repository contains the final pitch presentation and portfolio management strategy for our participation in **The Students Challenge 2024** organized by **Natixis Investment Managers** in Paris, France. 
 
-Out of the competing global teams, our team, **TCM Investment Managers** (consisting of 6 students), emerged as the **Winning Team**, achieving a portfolio performance of **+3.57% over a 3-month investment horizon** while strictly adhering to risk and ESG constraints.
+Out of the competing global teams, our team, **TCP Investment Managers** (consisting of 6 students), emerged as the **Winning Team**, achieving a portfolio performance of **+3.57% over a 3-month investment horizon** while strictly adhering to risk and ESG constraints.
 
 ## 📊 Strategy & Portfolio Overview
 As the Team Leader, I led the macro analysis, idea generation, stock picking, and asset allocation strategies for a virtual **$100M multi-asset portfolio**.
